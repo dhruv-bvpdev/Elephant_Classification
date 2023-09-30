@@ -1,0 +1,2 @@
+0 AFRICAN
+1 ASIAN
